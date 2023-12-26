@@ -1,6 +1,12 @@
 # Fashion mnist Classifier
+## 2023년 2학기 머신러닝 팀프로젝트
 
+Data set - fashion mnist
 
-data set - fashion mnist
+Preprocessing - Normalizer & PCA
 
-model - svm
+Model - svm
+
+Overwrite Ensemble
+
+Inference
