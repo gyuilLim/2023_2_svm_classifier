@@ -5,7 +5,7 @@
 
 ### Preprocessing - Normalizer & PCA
 
-### Model - svm
+### Model - 2 of svm(main + sub)
 
 ### Overwrite Ensemble
 
