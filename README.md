@@ -10,3 +10,7 @@ Model - svm
 Overwrite Ensemble
 
 Inference
+
+<p align="center">
+  <img src="이미지URL">
+</p>
