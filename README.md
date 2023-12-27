@@ -13,6 +13,9 @@
 
 ### Evaluation Metric - mAP score
 
+|public|private|
+|0.1234|0.1234|
+
 
 # Overview
 <p align="center">
