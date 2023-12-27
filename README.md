@@ -11,6 +11,8 @@
 
 ### Inference
 
+### Evaluation Metric - mAP score
+
 
 # Overview
 <p align="center">
